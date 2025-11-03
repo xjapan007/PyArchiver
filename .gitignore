@@ -12,7 +12,7 @@ venv/
 env/
 
 # Fichiers de compilation PyInstaller (pour vos futurs .exe)
-dist/
+Output/
 build/
 *.spec
 
