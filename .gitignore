@@ -1,0 +1,21 @@
+# Fichiers cache de Python
+__pycache__/
+*.pyc
+
+# Fichier de configuration personnel
+# IMPORTANT : Pour ne pas partager vos réglages de thème/police !
+compress_tool_config.json
+
+# Dossiers d'environnement virtuel
+venv/
+.venv/
+env/
+
+# Fichiers de compilation PyInstaller (pour vos futurs .exe)
+dist/
+build/
+*.spec
+
+# Fichiers OS
+.DS_Store
+Thumbs.db
