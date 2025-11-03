@@ -15,6 +15,7 @@ env/
 Output/
 build/
 *.spec
+*.iss
 
 # Fichiers OS
 .DS_Store
